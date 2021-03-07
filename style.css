@@ -65,3 +65,12 @@ body {
 	text-align: justify;
 	line-height: 1.4;
 }
+
+button.active,
+button.active:hover,
+button.active:focus {
+	border: 1px solid #003eff;
+    background: #007fff;
+    font-weight: normal;
+    color: #ffffff;
+}
