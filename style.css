@@ -72,5 +72,9 @@ button.active:focus {
 	border: 1px solid #003eff;
     background: #007fff;
     font-weight: normal;
-    color: #ffffff;
+    color: #fff;
+}
+
+.slider .ui-slider-handle {
+	background-color: #fff;
 }
